@@ -1,0 +1,4 @@
+services:
+  app:
+    build: .
+    container_name: c_cpp_encapsulation_demo
